@@ -1,2 +1,2 @@
 # SiteParserThreads
-Complement to MlParserThread to parse pre defined websites
+Arg Site parser complement of MlParser
