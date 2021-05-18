@@ -4,7 +4,7 @@ _This application is a complement of MlHTMLParserThread_
 
 ## Pre-requisits 📋
 
-__Check MlHTMLParserThread [README](https://github.com/bofus10/MlHTMLParserThread/blob/94368fb57fe96b28e486f8c08089d9759b7b9f4b/README.md)__
+__Check MlHTMLParserThread [README](https://github.com/bofus10/MlHTMLParserThread/blob/7e7392a18e26a027295157737e2aff417e160391/README.md)__
 
 ## Setup 🔧
 _You need to run this applicacion in the same enviroment where MlHTMLParserThread is working_
